@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/stage.cpp.o ./Debug/Vector.cpp.o
